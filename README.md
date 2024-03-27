@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack Developer
 -----------------------------
 
-Python, C++ enthusiast with a hunger for learning. Exploring Javascript, Django, Node.js, and React; eager to dive into projects and grow as a developer.
-
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [tanisha.verma.070121@gmail.com](mailto:tanisha.verma.070121@gmail.com)
 * 🧠  I'm learning Web development with python and javascript.
