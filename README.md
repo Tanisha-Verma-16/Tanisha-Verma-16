@@ -6,15 +6,10 @@ Aspiring Full-Stack Developer
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [tanisha.verma.070121@gmail.com](mailto:tanisha.verma.070121@gmail.com)
-* 🧠  I'm learning Web development with python and javascript.
+* 🧠  I'm learning Web development with HTML, CSS and Javascript.
 * 🤝  I'm open to collaborating on Fornt end development projects
-* ⚡  Puzzle solver by day, problem solver by night—unraveling the mysteries of code.
 
-### Skills
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-</p>
 
 ### Socials
 
